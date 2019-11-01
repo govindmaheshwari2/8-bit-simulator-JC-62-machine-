@@ -1,7 +1,7 @@
 
 #8-bit-simulator-JC-62-machine-
 
-GUI software implementation of very first computer. 
+GUI software implementation of very first computer which is only written in theories.
 
 (COMPUTER ORGANISATION AND ARCHITECTURE)
 
