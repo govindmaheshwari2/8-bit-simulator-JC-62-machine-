@@ -1,0 +1,6 @@
+LDA A
+MBA
+LDA B
+ADD
+STA C
+HLT

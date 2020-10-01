@@ -1,0 +1,6 @@
+LDA X
+MBA
+LDA Y
+SUB
+STA Z
+HLT
